@@ -1,0 +1,35 @@
+[
+  {
+    "impact_area": "customer satisfaction, brand reputation, returns/logistics",
+    "priority": "high",
+    "description": "100% of reviews for the speaker indicate the product arrived broken. This points to a significant quality control or packaging issue.",
+    "title": "High DOA (Dead on Arrival) Rate - Speaker",
+    "review_count": 1,
+    "category": "quality",
+    "recommendation": "Immediately investigate the manufacturing process, quality control checks before shipping, and product packaging for the speaker to identify and rectify the cause of damage during transit. Implement stricter 'drop tests' for packaging and pre-shipment functional testing for all units. Acknowledge the issue publicly and offer expedited replacements or refunds.",
+    "id": "1766212568198",
+    "created_at": "2025-12-20T06:36:08.198Z"
+  },
+  {
+    "recommendation": "Review and enhance the protective packaging for the speaker. Consider using more robust materials, better shock absorption, or redesigned internal packaging to secure the product during transit. Conduct transit simulations to test packaging effectiveness.",
+    "title": "Packaging Failure Leading to Product Damage",
+    "review_count": 1,
+    "priority": "high",
+    "description": "The customer reported the product was 'broken when it arrived,' suggesting inadequate packaging to withstand shipping rigors.",
+    "impact_area": "customer satisfaction, logistics costs (returns), product perception",
+    "category": "delivery",
+    "id": "1766212568204",
+    "created_at": "2025-12-20T06:36:08.204Z"
+  },
+  {
+    "priority": "high",
+    "description": "The immediate breakage upon arrival suggests either a fundamental flaw in the product's construction making it fragile, or a defect from manufacturing.",
+    "recommendation": "Engineers should perform a root cause analysis on the speaker's design and manufacturing process to identify points of failure that could lead to breakage during shipping or initial handling. Strengthen weak components or redesign for better durability. Implement more rigorous pre-shipment quality assurance checks.",
+    "impact_area": "product reliability, engineering, manufacturing",
+    "review_count": 1,
+    "title": "Potential Manufacturing Defect or Fragile Design",
+    "category": "product",
+    "id": "1766212568209",
+    "created_at": "2025-12-20T06:36:08.209Z"
+  }
+]
