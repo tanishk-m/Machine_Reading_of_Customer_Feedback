@@ -1,6 +1,6 @@
 Machine Reading - Sentiment Analysis Platform
 A powerful AI-driven platform for analyzing customer feedback, extracting sentiment from text and audio reviews, generating actionable business insights, and automating email notifications.
-👥 Author - Gunjan Saxena
+👥 Author - Tanishk Meena
 
 🚀 Key Features
 
